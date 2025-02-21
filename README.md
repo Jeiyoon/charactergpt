@@ -1,3 +1,3 @@
 # CharacterGPT
 
-Official repository for our paper, "Enhancing Consistency and Role-Specific Knowledge Capturing by Rebuilding Fictional Character's Persona" Code coming soon!
+Official repository for our paper, "CharacterGPT: A Persona Reconstruction Framework for Role-Playing Agents" Code coming soon!
